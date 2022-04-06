@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="confirm">확인하기</string>
+</resources>
